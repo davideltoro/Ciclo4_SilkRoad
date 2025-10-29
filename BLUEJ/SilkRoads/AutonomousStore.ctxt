@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AutonomousStore
+comment1.params=position\ tenges
+comment1.target=AutonomousStore(int,\ int)
+comment2.params=road
+comment2.target=void\ onPlaced(SilkRoad)
+comment3.params=routeSize\ isFree
+comment3.target=void\ relocateUsingFreeMap(int,\ boolean[])
+comment3.text=\r\n\ Helper\ p\u00FAblico\ para\ pruebas\ sin\ tablero\:\r\n\ Busca\ la\ primera\ posici\u00F3n\ libre\ en\ la\ ventana\ [position\ ..\ position+4],\r\n\ acotada\ por\ routeSize.\r\n
+numComments=4

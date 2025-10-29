@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SilkRoadContestTest
+comment0.text=\r\n\ Simula\ la\ l\u00F3gica\ y\ parte\ visual\ del\ proyecto\ SilkRoad.\r\n\ Autor\:\ Juan\ David\ Castellanos\ -\ Julian\ Morales\r\n
+comment1.params=days
+comment1.target=int[]\ solve(int[][])
+comment1.text=\r\n\ Ejecuta\ la\ simulaci\u00F3n\ l\u00F3gica\ (sin\ interfaz\ gr\u00E1fica).\r\n
+comment2.params=days\ slow
+comment2.target=void\ simulate(int[][],\ boolean)
+comment2.text=\r\n\ Simula\ visualmente\ los\ d\u00EDas.\r\n
+comment3.params=silkroad\ dia
+comment3.target=void\ mostrarEstadoDia(SilkRoad,\ int)
+comment3.text=\r\n\ Muestra\ el\ estado\ actual\ del\ SilkRoad.\r\n
+comment4.params=ms
+comment4.target=void\ pausa(int)
+comment4.text=\r\n\ Pausa\ visual.\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TenderRobotTest
+comment0.text=\r\n\ Prueba\ unitaria\ para\ la\ clase\ TenderRobot.\r\n\ Verifica\ movimiento,\ ganancias\ y\ recolecci\u00F3n\ de\ tiendas.\r\n\r\n\ Autor\:\ Juan\ David\ Castellanos,\ Julian\ Morales\r\n
+comment1.params=
+comment1.target=void\ testInicializacion()
+comment2.params=
+comment2.target=void\ testMovimiento()
+comment3.params=
+comment3.target=void\ testCollectFromStore_MitadDelDinero()
+comment4.params=
+comment4.target=void\ testCollectFromStore_TiendaVacia()
+comment5.params=
+comment5.target=void\ testCollectFromStore_Null()
+comment6.params=
+comment6.target=void\ testNoSumaGananciaNegativa()
+numComments=7

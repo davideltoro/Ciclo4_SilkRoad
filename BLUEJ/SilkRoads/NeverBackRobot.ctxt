@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NeverBackRobot
+comment0.text=\r\n\ Juan\ David\ Castellanos\r\n\ Clase\ NeverBackRobot\:\r\n\ Representa\ un\ robot\ que\ nunca\ retrocede\ en\ el\ tablero.\r\n\ Hereda\ toda\ la\ funcionalidad\ de\ RobotBase.\r\n\r\n\ Autor\:\ Juan\ David\ Castellanos\ -\ Julian\ Morales\r\n
+comment1.params=position\ tenges
+comment1.target=NeverBackRobot(int,\ int)
+comment1.text=\r\n\ Constructor\ del\ NeverBackRobot.\r\n\r\n\ @param\ position\ posici\u00F3n\ inicial\ del\ robot\r\n\ @param\ tenges\ cantidad\ inicial\ de\ tenges\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Movimiento\ del\ robot\:\ solo\ puede\ avanzar\ hacia\ adelante.\r\n\ Nunca\ se\ devuelve\ a\ una\ posici\u00F3n\ anterior.\r\n
+comment3.params=newPosition
+comment3.target=void\ moveTo(int)
+comment3.text=\r\n\ Mueve\ al\ robot\ a\ una\ posici\u00F3n\ espec\u00EDfica,\ pero\ nunca\ hacia\ atr\u00E1s.\r\n\ Puede\ usarse\ si\ en\ el\ juego\ se\ dan\ saltos\ m\u00E1s\ grandes.\r\n\r\n\ newPosition\ nueva\ posici\u00F3n\ a\ la\ que\ se\ desea\ mover\r\n
+numComments=4

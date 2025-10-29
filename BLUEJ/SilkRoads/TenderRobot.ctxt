@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TenderRobot
+comment0.text=\r\n\ Juan\ David\ Castellanos,\ Julian\ Morales\r\n\ Clase\ TenderRobot\:\r\n\ Representa\ un\ robot\ que\ solo\ toma\ la\ mitad\ del\ dinero\ disponible\ en\ las\ tiendas.\r\n\ Hereda\ de\ RobotBase.\r\n\r\n\ Autor\:\ Juan\ David\ Castellanos\ -\ Julian\ Morales\r\n
+comment1.params=position\ tenges
+comment1.target=TenderRobot(int,\ int)
+comment1.text=\r\n\ Constructor\ del\ TenderRobot.\r\n\r\n\ @param\ position\ posici\u00F3n\ inicial\ del\ robot\r\n\ @param\ tenges\ cantidad\ inicial\ de\ tenges\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Movimiento\ del\ robot\ tender.\r\n\ En\ este\ caso\ avanza\ igual\ que\ un\ robot\ normal\ (1\ posici\u00F3n\ por\ turno).\r\n
+comment3.params=store
+comment3.target=void\ collectFromStore(Store)
+comment3.text=\r\n\ Este\ robot\ solo\ toma\ la\ mitad\ del\ dinero\ disponible\ en\ la\ tienda.\r\n\r\n\ @param\ store\ Tienda\ de\ la\ que\ se\ tomar\u00E1\ el\ dinero.\r\n
+numComments=4
